@@ -6,7 +6,7 @@
 Project is implemented in programming language **Python**.
 
 ### Purpose of the project:
-- Design and implement an Ethernet network analyzer that analyzes communications 
+- Design and implement custom communication between two PC using the UDP protocol
 - The program consists of two parts - sending and receiving, i.e. one node PC data (text message, file), while the PC on the other side receives the data.
 
 
